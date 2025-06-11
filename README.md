@@ -1,6 +1,9 @@
+# Projeto Final GitHub
+
 # Sistema de Gestão de Pedidos - Restaurante
 
 **Nome:** Ricardo Reis
+
 **Curso:** Programação em Python - IEFP
 
 ## Descrição
@@ -8,11 +11,3 @@ Este projeto simples em Python simula um sistema de pedidos para um restaurante,
 - Ver o menu
 - Fazer pedidos
 - Consultar o total da conta
-
-## Como usar
-1. Coloca o ficheiro `menu.txt` com os produtos.
-2. Executa o script com:
-
-
-## Requisitos
-- Python 3.x
