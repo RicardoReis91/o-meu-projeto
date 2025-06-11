@@ -1,7 +1,7 @@
 # Sistema de Gestão de Pedidos - Restaurante
 
-**Nome:** João Silva  
-**Curso:** Técnico de Informática - Sistemas
+**Nome:** Ricardo Reis
+**Curso:** Programação em Python - IEFP
 
 ## Descrição
 Este projeto simples em Python simula um sistema de pedidos para um restaurante, permitindo ao utilizador:
