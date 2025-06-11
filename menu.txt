@@ -1,0 +1,5 @@
+1, Pizza Margherita, 8.5
+2, Lasanha Bolonhesa, 9.0
+3, Hambúrguer, 7.5
+4, Salada Caesar, 6.0
+5, Refrigerante, 2.0

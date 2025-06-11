@@ -1,0 +1,96 @@
+('C:\\Users\\grizz\\Documents\\Ensino Técnico-Superior\\Curso Programação em '
+ 'Python - IEFP\\Projeto de '
+ 'programação\\github10790\\build\\restaurante\\restaurante.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\grizz\\Documents\\Ensino Técnico-Superior\\Curso Programação em '
+   'Python - IEFP\\Projeto de '
+   'programação\\github10790\\build\\restaurante\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\grizz\\Documents\\Ensino Técnico-Superior\\Curso Programação em '
+   'Python - IEFP\\Projeto de '
+   'programação\\github10790\\build\\restaurante\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\grizz\\Documents\\Ensino Técnico-Superior\\Curso Programação em '
+   'Python - IEFP\\Projeto de '
+   'programação\\github10790\\build\\restaurante\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\grizz\\Documents\\Ensino Técnico-Superior\\Curso Programação em '
+   'Python - IEFP\\Projeto de '
+   'programação\\github10790\\build\\restaurante\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\grizz\\Documents\\Ensino Técnico-Superior\\Curso Programação em '
+   'Python - IEFP\\Projeto de '
+   'programação\\github10790\\build\\restaurante\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\grizz\\Documents\\Ensino Técnico-Superior\\Curso Programação em '
+   'Python - IEFP\\Projeto de '
+   'programação\\github10790\\build\\restaurante\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('restaurante',
+   'C:\\Users\\grizz\\Documents\\Ensino Técnico-Superior\\Curso Programação em '
+   'Python - IEFP\\Projeto de programação\\github10790\\restaurante.py',
+   'PYSOURCE'),
+  ('python313.dll',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
+   'BINARY'),
+  ('unicodedata.pyd',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\grizz\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\grizz\\Documents\\Ensino Técnico-Superior\\Curso Programação em '
+   'Python - IEFP\\Projeto de '
+   'programação\\github10790\\build\\restaurante\\base_library.zip',
+   'DATA')],
+ 'python313.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
